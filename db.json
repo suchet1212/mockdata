@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "test1",
+      "desc": "desc1",
+      "id": 1,
+      "rating": 1
+    },
+    {
+      "title": "test2",
+      "desc": "desc2",
+      "id": 2,
+      "rating": "4"
+    },
+    {
+      "title": "test3",
+      "desc": "desc1",
+      "id": 3,
+      "rating": "5"
+    },
+    {
+      "title": "test4",
+      "desc": "desc4",
+      "id": 4,
+      "rating": "3"
+    },
+    {
+      "title": "test5",
+      "desc": "desc2",
+      "id": 5,
+      "rating": "5"
+    },
+    {
+      "title": "t",
+      "desc": "d",
+      "id": 6,
+      "rating": "5"
+    }
+  ]
+}
